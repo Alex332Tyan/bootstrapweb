@@ -1,0 +1,369 @@
+nav .headerCont{    
+    box-shadow: 2px 2px 7px 3px #787878;
+    background-color: #ededed;
+    border-radius: 38px;
+    padding: 12px;
+   
+}
+
+header{
+    background-image:  url(https://framerusercontent.com/images/uzpCtuYDgW95T4BOxvHZMRJKE.png?scale-down-to=2048); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+header .navbar-brand img {
+    width: 150px;
+}
+
+
+
+header .btn2 {
+    border-radius: 30px !important; 
+    background-color: rgb(0, 70, 67) !important; 
+    font-size: 14px !important;
+    color: white !important; 
+    text-transform: uppercase;
+    font-weight: 500 !important;
+     /* padding: 12px; */
+}
+
+
+header nav ul li a{
+    text-transform: uppercase;
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    color: rgb(0, 70, 67)  !important; 
+}
+
+header h2{   
+    color: white;
+    font-size: 100px;
+    padding-top: 20%;
+
+}
+
+
+header .btn3{
+    font-size: 17px !important;
+    padding: 18px !important;
+    border-radius: 38px !important;
+    background-color:rgb(0, 70, 67)  !important;
+    color: white !important;
+    font-weight: 550 !important;
+
+}
+/* header .headerDiv2 {
+    position: relative;
+} */
+ header .shrjan1 {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border: 3.5px solid rgb(167, 164, 158);
+    border-radius: 50%;
+    /* top: 160px; */
+    left: 50%;
+    transform: translate(0, -150%);
+}
+
+/*
+header .shrjan2 {
+    position: absolute;
+    height: 130px;
+    width: 130px;
+    border: 3.5px solid #acacac;
+    border-radius: 50%;
+    top: 22px;
+    left: 13%;
+} */
+
+#container { 
+    margin: 0%; 
+}
+
+#circle { 
+    position: relative; 
+    width: 100%;
+    /* padding-bottom: 100%;  */
+    overflow: hidden; 
+}
+
+#circle text { 
+    font-family: 'Helvetica Neue', Arial; 
+    font-size: 16px; 
+    font-weight: bold;
+ }
+
+#circle svg { 
+    left: -97px;
+    top: -174px;
+    position: absolute;
+    /* left: 12%; */
+    /* top: 110px; */
+    width: 200%;
+    height: 540px;
+    animation: rotate 5s infinite linear;
+
+
+}
+
+
+@keyframes rotate {
+    from { transform: rotate(360deg); }
+    to { transform: rotate(0); }
+}
+
+
+
+
+
+/* .section1 */
+.headerDiv h2{
+    font-size: 42px;
+    padding-top: 8%;
+    color:  rgb(0, 70, 67);
+    /* font-weight: 400; */
+    font-weight: 550 !important;
+
+}
+
+.headerDiv p{
+    font-size: 22px;
+    font-style: italic;
+    /* padding: 0 20px; */
+    color: rgb(0, 70, 67);
+    font-weight: 550 !important;
+    
+}
+    
+.div1 .img1{
+    width: 120%;
+    height: 100%;
+}
+
+.div1 .img2{
+    width: 100%;
+    height: 70%;
+}
+
+.div1 .img3{
+    width: 120%;
+    height: 100%;
+}
+
+
+.container .div2{
+    margin: 50px;
+}
+
+/* //// */
+
+.mb-3{
+    background-color:  #02312f;
+}
+
+.div2 p{
+    color: rgb(0, 70, 67);
+    font-size: 17px;
+}
+
+.div2 .p1{
+    font-size: 70px;
+    color: rgb(0, 70, 67);
+    font-weight: 550 !important;
+}
+
+.card-body h5{
+   font-size: 16px;
+   color: white;
+   font-weight: 550 !important;
+   padding-top: 5%;
+}
+
+.card-body h2{
+    font-size: 38px;
+    color: white;
+    font-weight: 550 !important;
+    padding-top: 5%;
+ }
+
+.card-body p{
+    padding-top: 13%;
+    font-size: 30px;
+    color: white;
+    font-weight: 550 !important;
+}
+
+/* .col-3 {
+    padding-top: 14%;
+} */
+   
+.col-3 p{
+    color: rgb(0, 70, 67);
+    font-size: 18px;
+    font-weight: 550 !important;
+    
+}
+
+.h2cont h2{
+    color: rgb(0, 70, 67);
+    font-weight: 550 !important;
+    font-size: 65px;
+    padding-top: 8%;
+}
+
+.h2cont h5{
+    color: #004643;
+    font-size: 22px;
+    padding-top: 4%;
+}
+
+.h2cont .btt2{
+    border-radius: 30px !important; 
+    background-color: rgb(0, 70, 67) !important; 
+    font-size: 20px !important;
+    color: white !important; 
+    text-transform: uppercase;
+    font-weight: 500 !important; 
+}
+
+
+
+
+
+/* fluid1 */
+
+
+.fluid1{
+    background-color: #004643;
+}
+
+.cl3 p{
+    color: white;
+    font-weight: 650 !important;
+
+}
+
+.cl3 .p21{
+    font-size: 37px;
+    font-weight: 550 !important;
+}
+
+
+.cont4 p{
+    color:  rgb(2, 49, 47);  
+    font-weight: 550 !important;
+    font-size: 18px ;
+    text-align: center;
+}
+
+.rww2 h5{
+    font-size: 15px;
+    color:  rgb(2, 49, 47);
+   
+}
+
+.rww2 h2{
+    color: rgb(2, 49, 47);
+    font-size: 45px;
+    padding: 50px;
+    
+}
+
+.headerfon {
+    background-image: url(https://framerusercontent.com/images/nea6cG4ercYbVNoNyb021NdQye4.png?scale-down-to=2048);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+.crd2{
+    /* padding-bottom: 12%; */
+    height: 30vh;
+}
+
+.roww1 p{
+   color: rgb(0, 70, 67);
+   font-size: 55px;
+}
+
+
+
+.headerfon h2{   
+    color: white;
+    font-size: 80px;
+    /* padding-top: 20%; */
+
+}
+
+
+.headerfon .btn5{
+    width: 65%;
+    font-size: 17px !important;
+    padding: 18px !important;
+    border-radius: 38px !important;
+    background-color:rgb(0, 70, 67)  !important;
+    color: white !important;
+    font-weight: 550 !important;
+
+}
+
+.headerfon .btn6{
+    background-color: transparent;
+    color: white;
+    border-radius: 120px;
+    font-size: 30px;
+}
+
+.crd2 .col-5{
+    background-color: transparent;
+    border-style: solid;
+    border-color: rgb(205, 205, 205);
+    border-radius: 40px;
+    color: black;
+    font-size: 18px; 
+}
+
+.st1{
+    color:rgb(0, 70, 67);
+    font-size: 12px;
+    font-weight: 550 !important;
+}
+
+.works1 h1{
+    color: white;
+    font-size: 88px;
+    text-align: center;
+    padding-top: 20%;
+    font-weight: 550 !important;
+    
+}
+
+
+.hed2 {
+    background-image:  url(https://framerusercontent.com/images/M70CKJ9lD2nswCXPCBGGIRnq8jk.png?scale-down-to=2048); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 66vh;
+}
+
+.hed3{
+    background-image:  url(https://framerusercontent.com/images/M70CKJ9lD2nswCXPCBGGIRnq8jk.png?scale-down-to=2048); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.form1{
+    background-color:  #02312f;
+    width: 170%;
+    height: 100%;
+}
+
+.form1 input{
+    width: 70%;
+}
